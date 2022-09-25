@@ -1,4 +1,8 @@
 this is file1
 
+<<<<<<< HEAD
 
 this is 1st update
+=======
+this is 1st change
+>>>>>>> 1c9f63bb77900aeebd784a8e5967aabeb011f706
